@@ -1,0 +1,22 @@
+{
+  "name": "redux-tut",
+  "version": "1.0.0",
+  "description": "The tutorial from the Redux home pages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/howardsmithnz/redux-tut.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/howardsmithnz/redux-tut/issues"
+  },
+  "homepage": "https://github.com/howardsmithnz/redux-tut#readme",
+  "dependencies": {
+    "redux": "^3.6.0"
+  }
+}
